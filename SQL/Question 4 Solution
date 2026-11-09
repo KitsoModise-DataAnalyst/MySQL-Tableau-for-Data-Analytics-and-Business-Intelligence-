@@ -1,4 +1,4 @@
-use employees_mod;
+-- What is the average salary by gender per department within a chosen salary range?
 
 drop procedure if exists filter_salary;
 delimiter $$

@@ -19,6 +19,9 @@ employees, departments, dept_emp, dept_manager, salaries, titles.
 
 ## Solutions
 Question 1: **[View Question 1 SQL Solution](SQL/Question%201%20Solution)**
+Question 2: **[View Question 2 SQL Solution](SQL/Question%202%20Solution)**
+Question 3: **[View Question 3 SQL Solution](SQL/Question%203%20Solution)**
+Question 4: **[View Question 4 SQL Solution](SQL/Question%204%20Solution)**
 
 ## Dashboards
 https://public.tableau.com/app/profile/kitso.modise3234/viz/Employee-Dashboard/Dashboard1?publish=yes

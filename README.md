@@ -17,6 +17,9 @@ employees, departments, dept_emp, dept_manager, salaries, titles.
 3. What is the average salary by gender and department up to 2002?
 4. What is the average salary by gender per department within a chosen salary range?
 
+## Solutions
+Question 1: **[View Question 1 SQL Queries](sql/SQL/Question 1 Solution)**
+
 ## Dashboards
 https://public.tableau.com/app/profile/kitso.modise3234/viz/Employee-Dashboard/Dashboard1?publish=yes
 

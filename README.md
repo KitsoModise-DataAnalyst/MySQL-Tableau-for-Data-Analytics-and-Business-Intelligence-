@@ -19,12 +19,8 @@ employees, departments, dept_emp, dept_manager, salaries, titles.
 5. (Extended) Where is the gender pay gap largest today?
 6. (Extended) How long do employees stay, and how does it differ by gender?
 
-## Key Findings
-- [add 3–5 numeric findings after running the queries]
-
 ## Dashboards
-![Dashboard](tableau/screenshots/dashboard1.png)
-[Live link]
+https://public.tableau.com/app/profile/kitso.modise3234/viz/Employee-Dashboard/Dashboard1?publish=yes
 
 ## SQL Skills Demonstrated
 Joins · Subqueries · CTEs · CASE · Stored procedures · Views · Window functions · Aggregations

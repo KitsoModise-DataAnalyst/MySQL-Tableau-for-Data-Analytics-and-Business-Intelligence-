@@ -1,3 +1,6 @@
+-- How do male vs female managers compare by department, by year?
+
+
 SELECT 
     d.dept_name,
     ee.gender,

@@ -18,7 +18,7 @@ employees, departments, dept_emp, dept_manager, salaries, titles.
 4. What is the average salary by gender per department within a chosen salary range?
 
 ## Solutions
-Question 1: **[View Question 1 SQL Solution](SQL/Question%201%20Solution.sql)**
+Question 1: **[View Question 1 SQL Solution](SQL/Question%201%20Solution)**
 
 ## Dashboards
 https://public.tableau.com/app/profile/kitso.modise3234/viz/Employee-Dashboard/Dashboard1?publish=yes
